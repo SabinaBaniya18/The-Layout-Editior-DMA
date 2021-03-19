@@ -3,3 +3,6 @@
 
 ![verticallayout](https://user-images.githubusercontent.com/78713326/111751399-8dd97500-88bc-11eb-8b2d-0d6db87e3307.gif)
 
+![horizontaltablet](https://user-images.githubusercontent.com/78713326/111751554-bfead700-88bc-11eb-9f03-d043612aca65.gif)
+
+
